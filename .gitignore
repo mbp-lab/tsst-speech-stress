@@ -1,0 +1,9 @@
+#python logs
+.log
+.pyc
+
+#jupyter notebook logs
+.ipynb_checkpoints
+
+#participants-files
+.csv
